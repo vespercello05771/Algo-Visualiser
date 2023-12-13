@@ -15,9 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
+      sorting visualiser to be implemented here
     </div>
   );
 }
